@@ -41,7 +41,8 @@ Social Science Dimensions:
 
 1. Governance
 2. Policy
-3. 
+
+
 Resource Nexus
 
 1.Water
