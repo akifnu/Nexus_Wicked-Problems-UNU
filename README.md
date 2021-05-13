@@ -3,6 +3,7 @@ A Python and SQL implementation to find patterns in 7000 publication metadata fr
 
 This is a part of Wicked Science project from United Nations University - FLORES, Dresden.
 
+**Data Cleaning and concatnation(Tool: Python, Compiler: Google Colab) **
 We were curious about how the different problem sructure keywords (Wicked, Complex, Uncertain and Conflict) trends with Social Science Dimension (Policy and Governance) in Resource Nexus (Water,Soil, Food, Waste and Energy) around different regions in the world.
 
 We first downloaded the csv data from Scopus using the following keyword combination:
@@ -29,7 +30,7 @@ The joined file is named as:
 
 assign an index and outputting a csv file for pattern matching in SQL
 
-**SQL Pattern Matching**
+**SQL Pattern Matching (tool PostGreSQL)**
 ![Structure](https://user-images.githubusercontent.com/65511509/118099074-08160980-b3d5-11eb-8e43-9286d8b67291.jpg)
 
 the pattern matching in intended to find co-occurance or the intersections of the keywords of Problem Structure, Social Science Dimensions and Resource Nexus. The implementation 
@@ -59,7 +60,7 @@ The details of column creation, pattern matching codes, formulas are listed in t
 
 The results are included in the results folder
 
-**Country/ Regional Diffusion**
+**Country/ Regional Diffusion (Tool: Google Sheet)**
 
 We were curious about how over the time the keywords diffused in different regions globally to find a trend in publication. The results was generated from the affiliation column by detecting countries abd joining the results from the SQL outputs
 
