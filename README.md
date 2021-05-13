@@ -31,7 +31,7 @@ The joined file is named as:
 
 assign an index and outputting a csv file for pattern matching in SQL
 
-**SQL Pattern Matching (tool PostGreSQL)**
+**SQL Pattern Matching (Tool: PostGreSQL)**
 ![Structure](https://user-images.githubusercontent.com/65511509/118099074-08160980-b3d5-11eb-8e43-9286d8b67291.jpg)
 
 the pattern matching in intended to find co-occurance or the intersections of the keywords of Problem Structure, Social Science Dimensions and Resource Nexus. The implementation 
