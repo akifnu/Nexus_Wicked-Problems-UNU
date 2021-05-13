@@ -57,4 +57,4 @@ Resource Nexus:
 
 The details of column creation, pattern matching codes, formulas are listed in this [file](https://drive.google.com/file/d/1IsdevgmWRnhcy74gdfrgNDUMmVd-oWtR/view?usp=sharing "Google_sheet")
 
-
+The results are included in the results folder
