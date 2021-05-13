@@ -3,8 +3,6 @@ A Python and SQL implementation to find patterns in 7000 publication metadata fr
 
 This is a part of Wicked Science project from United Nations University - FLORES, Dresden.
 
-**Data Cleaning and concatnation(Tool: Python, Compiler: Google Colab)**
-
 We were curious about how the different problem sructure keywords (Wicked, Complex, Uncertain and Conflict) trends with Social Science Dimension (Policy and Governance) in Resource Nexus (Water,Soil, Food, Waste and Energy) around different regions in the world.
 
 We first downloaded the csv data from Scopus using the following keyword combination:
@@ -18,6 +16,8 @@ This Generated a 7041 results!
 
 We download the following data
 ![image](https://user-images.githubusercontent.com/65511509/118087317-a7330500-b3c5-11eb-9bdb-ec40128d8d5e.png)
+
+**Data Cleaning and concatnation(Tool: Python, Compiler: Google Colab)**
 
 However we mostly need the author name, author keywords, title, abstract and their affiliation. Scopus allows only data of 2000 at a time thus the data was downloaded in 4 year wise chunks
 1. 1953-2010.csv
