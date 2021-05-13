@@ -45,11 +45,11 @@ Social Science Dimensions:
 
 Resource Nexus:
 
-1.Water
-2.Soil
-3.Food
-4.Energy
-5.Waste
+1. Water
+2. Soil
+3. Food
+4. Energy
+5. Waste
 
 The details of column creation, pattern matching codes, formulas are listed in this [file](https://drive.google.com/file/d/1IsdevgmWRnhcy74gdfrgNDUMmVd-oWtR/view?usp=sharing "Google_sheet")
 
