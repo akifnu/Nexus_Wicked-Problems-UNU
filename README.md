@@ -31,7 +31,9 @@ assign an index and outputting a csv file for pattern matching in SQL
 ![Structure](https://user-images.githubusercontent.com/65511509/118099074-08160980-b3d5-11eb-8e43-9286d8b67291.jpg)
 
 the pattern matching in intended to find cooccurance or the intersections of the keywords of Problem Structure, Social Science Dimensions and Resource Nexus.
+
 Problem Structure:
+
 1. Wicked
 2. Conflict
 3. Complex
