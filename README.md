@@ -45,6 +45,5 @@ Resource Nexus
 3.Food
 4.Energy
 5.Waste
-The details of column creation, pattern matching codes, formulas are listed in this file
-https://drive.google.com/file/d/1IsdevgmWRnhcy74gdfrgNDUMmVd-oWtR/view?usp=sharing
+The details of column creation, pattern matching codes, formulas are listed in this [file]: https://www.mozilla.orghttps://drive.google.com/file/d/1IsdevgmWRnhcy74gdfrgNDUMmVd-oWtR/view?usp=sharing
 
