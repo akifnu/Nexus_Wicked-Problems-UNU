@@ -32,7 +32,7 @@ assign an index and outputting a csv file for pattern matching in SQL
 **SQL Pattern Matching**
 ![Structure](https://user-images.githubusercontent.com/65511509/118099074-08160980-b3d5-11eb-8e43-9286d8b67291.jpg)
 
-the pattern matching in intended to find cooccurance or the intersections of the keywords of Problem Structure, Social Science Dimensions and Resource Nexus.
+the pattern matching in intended to find co-occurance or the intersections of the keywords of Problem Structure, Social Science Dimensions and Resource Nexus. The implementation 
 
 Problem Structure:
 
@@ -58,3 +58,8 @@ Resource Nexus:
 The details of column creation, pattern matching codes, formulas are listed in this [file](https://drive.google.com/file/d/1IsdevgmWRnhcy74gdfrgNDUMmVd-oWtR/view?usp=sharing "Google_sheet")
 
 The results are included in the results folder
+
+**Country/ Regional Diffusion**
+
+We were curious about how over the time the keywords diffused in different regions globally to find a trend in publication. The results was generated from the affiliation column by detecting countries abd joining the results from the SQL outputs
+
