@@ -43,7 +43,7 @@ Social Science Dimensions:
 2. Policy
 
 
-Resource Nexus
+Resource Nexus:
 
 1.Water
 2.Soil
