@@ -36,10 +36,14 @@ Problem Structure:
 2. Conflict
 3. Complex
 4. Uncertain
+
 Social Science Dimensions: 
+
 1. Governance
 2. Policy
+3. 
 Resource Nexus
+
 1.Water
 2.Soil
 3.Food
